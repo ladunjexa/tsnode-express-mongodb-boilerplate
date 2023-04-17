@@ -102,7 +102,7 @@ TSNode-MongoDB-REST-API/
 <!-- TechStack -->
 ### :space_invader: Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,vite,react,tailwind,threejs,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,mongodb)](https://skillicons.dev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
