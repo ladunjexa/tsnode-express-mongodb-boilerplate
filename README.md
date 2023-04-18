@@ -92,10 +92,10 @@ TSNode-MongoDB-REST-API/
     |-- middlewares/
     |-- router/
     |-- index.ts
-    |-- .env
-    |-- nodemon.json
-    |-- tsconfig.json
-    |-- package.json
+  |-- .env
+  |-- nodemon.json
+  |-- tsconfig.json
+  |-- package.json
 ```
 <br />
 
